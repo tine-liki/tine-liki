@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello my name is Tine and i am a student in Nova gorica.
 
 <!--
 **tine-liki/tine-liki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
